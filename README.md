@@ -1,5 +1,5 @@
 # fastapi-blog-backend
 
-deploy to https://y2ohly.deta.dev/
+deploy to https://kde4gd.deta.dev/docs
 
-view the api document, enter `https://y2ohly.deta.dev/docs`
+view the api document, enter `https://kde4gd.deta.dev/docs`
