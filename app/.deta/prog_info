@@ -1,0 +1,1 @@
+{"id":"8c1c1aba-eebd-408d-9171-73fc264a884f","space":6095,"runtime":"python3.7","name":"yifan-backend","path":"kde4gd","project":"b0zmpx47","account":"144798365827","region":"us-east-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","python-jose","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}

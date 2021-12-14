@@ -5,8 +5,8 @@ from sqlalchemy.orm import Session
 from blog.repository import blog
 
 router = APIRouter(
-    prefix="/blog",
-    tags=['Blogs']
+    prefix="/audios",
+    tags=['Audios']
 )
 
 get_db = database.get_db
